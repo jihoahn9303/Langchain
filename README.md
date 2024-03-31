@@ -16,3 +16,7 @@ RAG(Retrieval Augmented Generation) 방법을 활용하여, 주어진 문서에 
 또한, Streamlit의 dataflow로 인한 리소스(LLM, Memory etc..) 호출 비용을 줄이기 위해, 캐싱 기능을 사용했습니다.
 
 아래에 데모 영상을 첨부했어요🦾
+
+
+https://github.com/jihoahn9303/Langchain/assets/48744746/f7dfdd03-354f-4650-a6af-eca23e4e255d
+
