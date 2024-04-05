@@ -11,11 +11,11 @@ RAG(Retrieval Augmented Generation) 방법을 활용하여, 주어진 문서에 
 
 깔끔한 웹 인터페이스를 제작하기 위하여, Streamlit으로 애플리케이션을 제작하였습니다 :)
 
-이때, LLM Chatbot에 필요한 문서 호출 시간을 짧게하기 위하여, Langchain의 Stuff를 커스텀 체인으로 구현했습니다.
+애플리케이션 구축 과정에 대한 자세한 내용은 아래 블로그 링크를 참고해주세요 :)
 
-또한, Streamlit의 dataflow로 인한 리소스(LLM, Memory etc..) 호출 비용을 줄이기 위해, 캐싱 기능을 사용했습니다.
+[Smart Document Retriever 구축기](https://anzzang-lab.oopy.io/33632a51-0186-47bc-8789-202c1352b4fb)
 
-아래에 데모 영상을 첨부했어요🦾
+또한, 아래에 데모 영상을 첨부했습니다🦾 (파일 첨부, 채팅 기능 확인)
 
 
 https://github.com/jihoahn9303/Langchain/assets/48744746/f7dfdd03-354f-4650-a6af-eca23e4e255d
